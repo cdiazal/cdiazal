@@ -21,7 +21,17 @@ Before that, four years teaching .NET — **922 student ratings, 4/5** on [OpenW
 
 ### Certifications
 
-Microsoft Certified: **AI Transformation Leader** (2026) · GitHub Copilot **GH-300** (2026) · Microsoft Certified: **DevOps Engineer Expert** · **AZ-400** · Azure Developer Associate
+- Microsoft Certified: **Agentic AI Business Solutions Architect Expert** (2026)
+- Microsoft Certified: **Azure AI Apps and Agents Developer Associate** (2026)
+- Microsoft Certified: **AI Transformation Leader** (2026)
+- **GitHub Copilot** — GH-300 (2026)
+- Microsoft Certified: **DevOps Engineer Expert**
+- **AZ-400**: Designing and Implementing Microsoft DevOps Solutions
+- Microsoft Certified: **Azure Developer Associate**
+- Microsoft Certified: **Azure Fundamentals**
+- **Distributed Systems Design Fundamentals**
+
+All Microsoft credentials are verifiable on [Microsoft Learn](https://learn.microsoft.com/en-us/users/cesardiazalcolea-7997/).
 
 ---
 
