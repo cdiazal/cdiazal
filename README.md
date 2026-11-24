@@ -11,6 +11,7 @@ That is a different problem from building a demo. Most of what I do is deciding 
 - **Agent governance** — guardrails enforced by hooks and CI, not by prompts. Blast-radius limits, mandatory review fan-out, and quality gates that an agent cannot talk its way past.
 - **Spec-driven development** — GitHub Spec Kit, `AGENTS.md`, MCP tooling, and the unglamorous work of making them survive a real multi-repo estate.
 - **LLM evaluation** — measuring whether a change actually helped, instead of asserting it.
+- **Observability and performance gates** — OpenTelemetry, App Insights, Azure Monitor and Grafana on what is already running. Load tests in the pipeline, NBomber on .NET services and k6 elsewhere, blocking the deploy where it matters and reporting where it does not.
 - **Pre-sales architecture** — the target architecture, team shape and cost model behind an enterprise bid. What is buildable, by whom, and for how much, decided before anyone signs.
 - **Distributed .NET** — DDD, CQRS, event sourcing and microservices on Azure. Twenty years of it.
 
